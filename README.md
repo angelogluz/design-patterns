@@ -1,8 +1,18 @@
 # Faculdade de Tecnologia Senac 
-# Engenharia de Software II
-# Design Patterns
+# Engenharia de Software II - Design Patterns
 
-## 2022/2
+## Adapter
+
+### Felipe Scheil Melo
+
+Padrão: Adapter
+
+Repositório: https://github.com/felipesm27/design-patterns-typescript
+
+Vídeo: https://www.youtube.com/watch?v=5GQm9bB5Qh4
+
+
+## Builder
 
 ### Juan Schiavon
 
@@ -12,13 +22,19 @@ Repositório: https://github.com/zschiavon/ES2-Final-DesignPatterns
 
 Vídeo: https://youtu.be/_VXSws6Yf78
 
-### Thiago Vernetti
 
-Padrão: MVC
+## Factory Method
 
-Repositório: https://github.com/thiagovernetti96/Design-Pattern
+### Alexandre Monteiro
 
-Vídeo: https://drive.google.com/file/d/1TT6fsirBp_io1eHkwHWALp9n7s03dooG/view?usp=share_link	
+Padrão: Factory Method
+
+Repositório: https://github.com/monteiro-ale/factory_method_es2	
+
+Vídeo: https://drive.google.com/file/d/1dC97XW_L11NyfdzRygh5Syj-w4KRZW3M/view
+
+
+## Templated Method
 
 ### Pedro Lucas Martins, Saul Vargas Costa e Vitor de Mesquita Lopes
 
@@ -27,6 +43,19 @@ Padrão: Templated Method
 Repositório: https://github.com/vitormlps/eng2-template-method
 
 Vídeo: https://www.youtube.com/watch?v=e4fthsZVp6I&feature=youtu.be
+
+
+## MVC
+
+### Thiago Vernetti
+
+Padrão: MVC
+
+Repositório: https://github.com/thiagovernetti96/Design-Pattern
+
+Vídeo: https://drive.google.com/file/d/1TT6fsirBp_io1eHkwHWALp9n7s03dooG/view?usp=share_link	
+
+## Observer
 
 ### Gabriel Costa, Gabriélen Cunha e Paola Fantinel
 
@@ -44,13 +73,24 @@ Repositório: https://drive.google.com/file/d/1J17OhJM94K-ebgtAMkApXz_JwIScoD1p/
 
 Vídeo: https://drive.google.com/file/d/19xIO2YYEYYhB2YeFrWk4hCdyLg3ArPht/view
 
-### Jean Conceição
+### Gabriel Costa, Gabriélen Cunha e Paola Fantinel
 
-Padrão: Singleton
+Padrão: Observer
 
-Repositório: https://github.com/jeansanto/trabalhofinal
+Repositório: https://github.com/GabrielCosta-Abap/ES2-Final-Observer
 
-Vídeo: https://drive.google.com/file/d/15HtIvLRBa7uOqv6a9gKdMm-ZmZWDK864/view?usp=sharing (Bloqueado)
+Vídeo: https://drive.google.com/drive/folders/1B-rAs9o-EsCr9hsGOM41JESFFF8MgbS4
+
+### Natan Pezzini
+
+Padrão: Observer
+
+Repositório: https://github.com/neitan626/Observer	
+
+Vídeo: https://drive.google.com/file/d/1jdcNDflI46DdurgeA3EzbQhJUrCFPmPU/view
+
+
+## Prototype
 
 ### Anna Hermes, Guilherme Menezes, Mariana Dreyer e Sandro Teixeira
 
@@ -60,10 +100,49 @@ Repositório: https://github.com/marydreyer/Design-Patterns-Prototype
 
 Vídeo: https://drive.google.com/file/d/1bsYN70G0zNc6BCmILHLyffEGRlR8xzFM/view
 
-### Gabriel Costa, Gabriélen Cunha e Paola Fantinel
 
-Padrão: Observer
+## Singleton
 
-Repositório: https://github.com/GabrielCosta-Abap/ES2-Final-Observer
+### Jean Conceição
 
-Vídeo: https://drive.google.com/drive/folders/1B-rAs9o-EsCr9hsGOM41JESFFF8MgbS4
+Padrão: Singleton
+
+Repositório: https://github.com/jeansanto/trabalhofinal
+
+Vídeo: https://drive.google.com/file/d/15HtIvLRBa7uOqv6a9gKdMm-ZmZWDK864/view
+
+### Emilio de Oliveira, Marcos Alan e Marlon
+
+Padrão: Singleton
+
+Repositório 1: https://github.com/blindalan/agenda_flask
+
+Repositório 2: https://github.com/blindalan/agenda_simples
+
+Vídeo: https://www.youtube.com/watch?v=e4fthsZVp6I
+
+
+### Denian Manke
+
+Padrão: Singleton
+
+Repositório: https://github.com/deniann/SingletonProject	
+
+Vídeo: https://drive.google.com/drive/folders/1vD4XHRyjnOxGmx0N8QzBzAs03jz-Q2-j
+
+
+## Strategy
+
+### Pedro Jardel Lima, Verônica Schiller e Yuri Soares
+
+Padrão: Strategy
+
+Repositório: https://github.com/PedroJardel/Patterns_ES2	
+
+Vídeo: https://drive.google.com/drive/folders/1l4A98iyVg-E9BE83sciKc3U0zbnsI_be
+
+
+
+
+
+
